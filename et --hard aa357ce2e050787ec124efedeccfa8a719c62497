@@ -1,0 +1,255 @@
+[33mcommit 78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6538270 39294f3
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 12 20:56:19 2025 +0800
+
+    Merge pull request #867 from bestZwei/main
+    
+    移除所有内置影视源
+
+[33mcommit 39294f3dd915bc03cd5f78dd9861b87489f209dd[m
+Author: developer <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 12 20:54:01 2025 +0800
+
+    fix
+
+[33mcommit c7b7dbb65ca323f33f45a18c248139fbc309f267[m
+Author: developer <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 12 20:46:11 2025 +0800
+
+    Remove all API site configurations from config.js
+
+[33mcommit 65382704af751ac034cce616b3dd63fec7ddbb43[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Aug 6 01:17:12 2025 +0800
+
+    Auto Update 2025-08-06 01:17
+
+[33mcommit 44bc80828b07fb1ce54bb1e38b8b1f3fade3af2b[m
+Author: 旋律已经死了。 <89735151+JohnsonRan@users.noreply.github.com>
+Date:   Wed Aug 6 01:17:04 2025 +0800
+
+    Update nomore-spam.yml
+
+[33mcommit f040f15a35504bad47d486bc67626191717343d3[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Aug 6 00:54:07 2025 +0800
+
+    Auto Update 2025-08-06 00:54
+
+[33mcommit 1ba11b3feb696a4b18a1ac7747cfeb4756277050[m
+Merge: f0e9da4 2ffd0fa
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Wed Aug 6 00:54:00 2025 +0800
+
+    Merge pull request #832 from bestZwei/main
+    
+    Remove ADMINPASSWORD placeholder from HTML and middleware files
+
+[33mcommit 2ffd0fa8df92d1603f4f78881885dda52c6dd6d2[m
+Author: developer <noreply@null.org>
+Date:   Wed Aug 6 00:24:26 2025 +0800
+
+    Remove ADMINPASSWORD placeholder from HTML and middleware files
+
+[33mcommit f0e9da41126fd4765ceee5e7d4be0e3c5509b5f1[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 23:03:54 2025 +0800
+
+    Auto Update 2025-08-05 23:03
+
+[33mcommit bc91ad1ef41004d1d65cbdfbc111b3a2e04d64f8[m
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 23:03:45 2025 +0800
+
+    Update nomore-spam.yml
+
+[33mcommit 22e1fbb9ecd4f9bffb1141ab802f8015c5b2b4fb[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 22:58:10 2025 +0800
+
+    Auto Update 2025-08-05 22:58
+
+[33mcommit 5728dee7ab8551b9fabdd8888423e1eaee2486b4[m
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 22:57:52 2025 +0800
+
+    Update nomore-spam.yml
+
+[33mcommit 409f9fe05466201df8df584db87bb11ee0821094[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 22:56:13 2025 +0800
+
+    Auto Update 2025-08-05 22:56
+
+[33mcommit 82c1f6f0ed9c3e5d2e0dd3c4dfb9a0e0e8c339d9[m
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 22:56:04 2025 +0800
+
+    Update nomore-spam.yml
+
+[33mcommit 7a730531492cef220f7bfc087b23cd592fa8ea4d[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 22:52:20 2025 +0800
+
+    Auto Update 2025-08-05 22:52
+
+[33mcommit 6d025244460df1e10a7f263aa58638e5b01e07bc[m
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 22:52:13 2025 +0800
+
+    Update nomore-spam.yml
+
+[33mcommit 8ca76552a85c20789516b5240d7374d652d39078[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 17:01:28 2025 +0800
+
+    Auto Update 2025-08-05 17:01
+
+[33mcommit 8f75f510e263b0b5348ab6cbbc711f4792b395db[m
+Author: 旋律已经死了。 <89735151+JohnsonRan@users.noreply.github.com>
+Date:   Tue Aug 5 17:01:19 2025 +0800
+
+    feat: spam and nonsense go away
+
+[33mcommit 930ac682cabe0cf674e00acb20339bac05e93369[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 03:35:32 2025 +0800
+
+    Auto Update 2025-08-05 03:35
+
+[33mcommit 61db735bb3d4f1b05523b3a05a32257162601fe9[m
+Merge: cb8c164 4717fad
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 03:35:22 2025 +0800
+
+    Merge pull request #817 from bestZwei/main
+    
+    文档增加清理浏览器缓存的建议
+
+[33mcommit 4717fad492620e773d19264a75aef21a66e5ba88[m
+Merge: e647d4d cb8c164
+Author: developer <noreply@null.org>
+Date:   Tue Aug 5 03:33:57 2025 +0800
+
+    Merge branch 'main' of github.com:bestZwei/LibreTV
+
+[33mcommit e647d4dbc0972abf4d0c7098eeb1b6b452affb61[m
+Author: developer <noreply@null.org>
+Date:   Tue Aug 5 03:33:52 2025 +0800
+
+    docs: 增加清理浏览器缓存的建议
+
+[33mcommit cb8c164b127a39cf43e8777c062875f1e4852034[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Aug 5 02:40:50 2025 +0800
+
+    Auto Update 2025-08-05 02:40
+
+[33mcommit 5fdd0735781e03511d2281f95640289e401a39bc[m
+Merge: fabb66e 3953b52
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Tue Aug 5 02:40:39 2025 +0800
+
+    Merge pull request #816 from bestZwei/main
+    
+    升级播放器版本
+
+[33mcommit 3953b52269fdda94197e31bbc5557cf471b612d4[m
+Author: developer <noreply@null.org>
+Date:   Tue Aug 5 02:20:24 2025 +0800
+
+    升级播放器版本
+
+[33mcommit f5d1e149517ff4db0778d5a6e7daef29887777ee[m
+Author: developer <noreply@null.org>
+Date:   Tue Aug 5 02:14:32 2025 +0800
+
+    fix: update search input class to prevent overflow
+
+[33mcommit 28cd981226df688f51c73daf3e88c52936059502[m
+Author: developer <noreply@null.org>
+Date:   Tue Aug 5 01:48:39 2025 +0800
+
+    docs update
+
+[33mcommit fabb66e5d086a163402922c153c9cbd3f871d538[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Mon Aug 4 19:18:37 2025 +0800
+
+    Auto Update 2025-08-04 19:18
+
+[33mcommit dfa3696c9caf7d24f6870e87fb8e27168970ffea[m
+Merge: aa357ce c422031
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Mon Aug 4 19:18:30 2025 +0800
+
+    Merge pull request #813 from bestZwei/main
+    
+    - /proxy 添加鉴权
+    - 强制设置PASSWORD
+
+[33mcommit c4220311893f6da2b7ab0f9034072effc931977d[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 19:16:59 2025 +0800
+
+    docs: daily updating
+
+[33mcommit daa2fc58722bd0180284b4420d7c43f4d905ab0e[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 19:01:04 2025 +0800
+
+    fix: 删除了有问题的中间件
+
+[33mcommit 935372f93ab7c29cb0e239ae75c759c89a133d4d[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 18:24:29 2025 +0800
+
+    文档修改，要求必须设置PASSWORD
+
+[33mcommit f46e0c90fd1e97bdc7ae52048964ac9c23a4c635[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 18:15:27 2025 +0800
+
+    fix: increase timeout duration for API requests to 80 seconds
+
+[33mcommit e323adae11bc85f904ab8da78d5cf352f29c2984[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 18:06:40 2025 +0800
+
+    feat: implement proxy request authentication mechanism using PASSWORD
+
+[33mcommit 0d991bcc23d8e978bab2af13bb130ba3352642d4[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 17:04:43 2025 +0800
+
+    delete some links
+
+[33mcommit 84114145f0294b28ee4d2625d641ad806591a84d[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 16:04:57 2025 +0800
+
+    feat: enhance password protection checks to prevent bypass
+
+[33mcommit d1303fce1d7824fa32f6d8840105e973090e3fc4[m
+Author: developer <noreply@null.org>
+Date:   Mon Aug 4 14:29:13 2025 +0800
+
+    refactor: remove ADMINPASSWORD support and update related documentation
+
+[33mcommit aa357ce2e050787ec124efedeccfa8a719c62497[m
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Fri Aug 1 13:16:30 2025 +0800
+
+    Auto Update 2025-08-01 13:16
+
+[33mcommit ae2a48d95dc27f0dac971759cfb99f00d21e718f[m
+Merge: 62ea028 426c7cc
+Author: Zwei <110226580+bestZwei@users.noreply.github.com>
+Date:   Fri Aug 1 13:16:22 2025 +0800
+
+    Merge pull request #806 from Frank-whw/main
+    
+    feat(播放器): 添加视频源速率测试功能并优化资源切换界面
+
+[33mcommit 426c7cc1adcaedd5324cb3c2b328354ef22f40da
